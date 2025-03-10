@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.App-header {
+  margin-bottom: 2rem;
+}
+
+h1 {
+  font-weight: 300;
+  color: #2c3e50;
+}
+
+main {
+  margin-bottom: 2rem;
+}
+
+footer {
+  margin-top: 2rem;
+  color: #7f8c8d;
+  font-size: 0.9rem;
+}
